@@ -12,7 +12,7 @@ $ java WebCrawler PAGES_LIMIT http[s]://...
 ```
 For example, 
 ```
-java WebCrawler 10 http://www.google.com
+$ java WebCrawler 10 http://www.google.com
 ```
 and the output is
 ```
