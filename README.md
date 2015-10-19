@@ -31,4 +31,4 @@ Crawling finish.
 ```
 
 ## License
-It is released under MIT license. See the LICENSE file to see license rights and limitation).
+It is released under GNU GPL license. See the LICENSE file to see license rights and limitation.
