@@ -16,8 +16,8 @@ public class WebCrawler {
 		
 //		System.out.println("input URL: ");
 //		Scanner input = new Scanner(System.in);
-		String urlString = args[0];
-		final int SIZE = Integer.parseInt(args[1]);
+		final int SIZE = Integer.parseInt(args[0]);
+		String urlString = args[1];
 		
 		try{
 			new URL(urlString);	// for check
